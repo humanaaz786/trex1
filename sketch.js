@@ -70,7 +70,7 @@ function setup() {
 
 function draw() {
   //trex.debug = true;
-  background("grey");
+  background("white");
   textSize(15);
    text("HI:",450,50);
   text(highscore, 490,50);
